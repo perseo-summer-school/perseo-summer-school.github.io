@@ -1,1 +1,0 @@
-https://perseo-summer-school.github.io/
