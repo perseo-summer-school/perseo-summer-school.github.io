@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PERSEO Summer School</title>
+    <description>TBD
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 Apr 2022 13:04:53 +0100</pubDate>
+    <lastBuildDate>Sun, 10 Apr 2022 13:04:53 +0100</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Prof. Angelo Cangelosi</title>
+        <description>
+</description>
+        <pubDate>Fri, 26 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/perseo_teams/2017/05/26/team-00/</link>
+        <guid isPermaLink="true">http://localhost:4000/perseo_teams/2017/05/26/team-00/</guid>
+        
+        
+        <category>perseo_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Prof. Alessandro Di Nuovo</title>
+        <description>
+</description>
+        <pubDate>Thu, 25 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/perseo_teams/2017/05/25/team-01/</link>
+        <guid isPermaLink="true">http://localhost:4000/perseo_teams/2017/05/25/team-01/</guid>
+        
+        
+        <category>perseo_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Prof. Silvia Rossi</title>
+        <description>
+</description>
+        <pubDate>Wed, 24 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/perseo_teams/2017/05/24/team-02/</link>
+        <guid isPermaLink="true">http://localhost:4000/perseo_teams/2017/05/24/team-02/</guid>
+        
+        
+        <category>perseo_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Prof. Pedro Guijarro Fuentes</title>
+        <description>
+</description>
+        <pubDate>Tue, 23 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/perseo_teams/2017/05/23/team-03/</link>
+        <guid isPermaLink="true">http://localhost:4000/perseo_teams/2017/05/23/team-03/</guid>
+        
+        
+        <category>perseo_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Rahul Singh Maharjan</title>
+        <description>
+</description>
+        <pubDate>Mon, 22 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/perseo_teams/2017/05/22/team-04/</link>
+        <guid isPermaLink="true">http://localhost:4000/perseo_teams/2017/05/22/team-04/</guid>
+        
+        
+        <category>perseo_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Mehdi Hellou</title>
+        <description>
+</description>
+        <pubDate>Sun, 21 May 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/perseo_teams/2017/05/21/team-05/</link>
+        <guid isPermaLink="true">http://localhost:4000/perseo_teams/2017/05/21/team-05/</guid>
+        
+        
+        <category>perseo_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Prof. Filippo Cavallo</title>
+        <description>
+</description>
+        <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/perseo_speakers/2017/01/12/speaker-01/</link>
+        <guid isPermaLink="true">http://localhost:4000/perseo_speakers/2017/01/12/speaker-01/</guid>
+        
+        
+        <category>perseo_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>Prof. Michael Beetz</title>
+        <description>
+</description>
+        <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/perseo_speakers/2017/01/11/speaker-02/</link>
+        <guid isPermaLink="true">http://localhost:4000/perseo_speakers/2017/01/11/speaker-02/</guid>
+        
+        
+        <category>perseo_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>Prof. Lucas Cordeiro</title>
+        <description>
+</description>
+        <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/perseo_speakers/2017/01/10/speaker-03/</link>
+        <guid isPermaLink="true">http://localhost:4000/perseo_speakers/2017/01/10/speaker-03/</guid>
+        
+        
+        <category>perseo_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>Dr. Ken Kehoe</title>
+        <description>
+</description>
+        <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/perseo_speakers/2017/01/09/speaker-04/</link>
+        <guid isPermaLink="true">http://localhost:4000/perseo_speakers/2017/01/09/speaker-04/</guid>
+        
+        
+        <category>perseo_speakers</category>
+        
+      </item>
+    
+  </channel>
+</rss>
