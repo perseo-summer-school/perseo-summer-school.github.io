@@ -367,7 +367,7 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     margin-bottom: 30px;
     font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 30px;
+    font-size: 50px;
     font-width: 600;
     /* font-style: italic; */
     line-height: 22px;
@@ -397,7 +397,7 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 30px;
         font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 50px;
+        font-size: 60px;
         /* font-style: italic; */
         font-width: 600;
         line-height: 40px;
